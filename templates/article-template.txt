@@ -1,0 +1,5 @@
+Copy to blog/your-article-slug/index.html. Use the structure of about/index.html:
+1. Change <title>, meta description, canonical URL and og: tags.
+2. Set depth: pages at blog/slug/ use "../../" before css, js and links.
+3. Write one <h1>, then <h2> sections. Add a real author and date only if true.
+4. Add the page to blog/index.html and to sitemap.xml.

@@ -1,0 +1,3 @@
+Copy to projects/your-project/index.html. Use about/index.html as the base (change "../" to "../../").
+Sections: Overview, Problem, Components, Design and build, Challenges, Testing and results, Lessons, Contributors (verified only).
+Add the page to projects/index.html and sitemap.xml. Only include facts the team confirmed.
