@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://electronicsclubkec.github.io/sitemap.xml
