@@ -28,3 +28,8 @@ Social links (footer, contact) | join/application link (contact) | hero photo | 
 6. Watch Search Console for queries and indexing issues. Indexing and ranking take time and are not guaranteed.
 7. Ask the college to link to the site if permitted, link from real club social profiles, and publish genuine project reports.
 Add the new page to `sitemap.xml` whenever you create one.
+
+## Credits
+- Initial website design and development: Krish Bishwakarma
+- Organization: KEC Electronics Club, Kantipur Engineering College
+- Maintenance and future contributions: KEC Electronics Club members
